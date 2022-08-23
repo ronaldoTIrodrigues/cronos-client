@@ -31,7 +31,7 @@ export function Header() {
             aria-label="Open navigation"
             icon={<Icon as ={RiMenuLine} />}
             fontSize="24"
-            variant="unstuled"
+            variant="unstyled"
             onClick={onOpen}
             mr="2"
           >
